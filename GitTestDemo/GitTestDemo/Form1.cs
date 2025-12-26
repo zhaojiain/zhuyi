@@ -5,6 +5,7 @@ namespace GitTestDemo
         public Form1()
         {
             InitializeComponent();
+            string a = "";
         }
     }
 }
